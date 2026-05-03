@@ -94,3 +94,8 @@ The analysis focuses on understanding dataset structure, handling inconsistencie
 ## Conclusion
 
 The analysis highlights that **property size and location are the primary drivers of price**, while features like furnishing and amenities play a secondary role. The dataset clearly reflects structured segmentation in the Delhi real estate market, enabling better strategic and investment decisions. 
+
+--
+
+## Acknowledgment
+I sincerely thank my mentors, faculty, and peers for their constant support and valuable guidance throughout this project. I also appreciate the open-source community for offering resources that helped deepen my knowledge of data analysis and visualization.
